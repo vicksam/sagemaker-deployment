@@ -1,7 +1,6 @@
-# Deploying a model using Amazon SageMaker
+# Deploying a Model Using Amazon SageMaker
 
-I create a simple neural network that predicts whether a movie review is positive
-or not. Then I deploy it as a web app so anyone can use it.
+I create a simple neural network that predicts whether a movie review is positive or not. Then I deploy it as a web app so anyone can use it.
 
 ### Overview
 
